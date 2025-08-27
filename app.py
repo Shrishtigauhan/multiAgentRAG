@@ -10,10 +10,6 @@ Features:
 - Shows file summaries after upload
 - Conversation memory + Streamlit chat UI
 
-Make sure to set:
-  export GOOGLE_API_KEY="your_api_key_here"
-or Windows:
-  setx GOOGLE_API_KEY "your_api_key_here"
 """
 
 from __future__ import annotations
